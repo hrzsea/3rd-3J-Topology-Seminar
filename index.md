@@ -1,6 +1,6 @@
 # Welcome to the 3rd 3J Topology Seminar  
 
-The 3rd 3J Topology Seminar will be held at [天津南开大学数学科学学院](http://sms.nankai.edu.cn) from Mar. 13-15, 2020 (the 2rd weekend of March), hosted by School of Mathematical Sciences, Nankai University(南开大学数学科学学院).
+The 3rd 3J Topology Seminar will be held at [天津南开大学](http://sms.nankai.edu.cn) from Mar. 13-15, 2020 (the 2rd weekend of March), hosted by School of Mathematical Sciences, Nankai University(南开大学数学科学学院).
 
 The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), [Accommodation and Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
@@ -19,7 +19,7 @@ The seminar will be paperless. All the information about the seminar, including 
 |                                                                                                                                  |
 |       8:45 - 9:00       |                           |           Opening                 |                                        |
 |         Chair           |                           |                                   |                                        |
-|       9:00 - 09:50      |   |      [**DZ**](#**Haibao Duan and Xuezhi Zhao (1)**)        |      [**Fan**](#**Feifei Fan (1)**)          | 
+|       9:00 - 09:50      |   |      [**Haibao Duan and Xuezhi Zhao (1)**](#DZ)        |      [**Feifei Fan (1)**](#Fan)          | 
 |       9:50 - 10:20      |                           |          Tea Break                |         Tea Break                      |
 |       10:20 - 11:10     |Full-day Registration   | **Haibao Duan and Xuezhi Zhao (2)**  |    **Feifei Fan (2)** |
 |       11:10-11:40       |                           |          Tea Break                |         Tea Break                      |
