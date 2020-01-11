@@ -10,7 +10,7 @@ The seminar will be paperless. All the information about the seminar, including 
 
 ## <span id="Program">Program</span>  
 
-### (Homotopy theory and its applications）
+### (Algebraic topology of Lie groups and combinatorics）
 
 
 |                         |   Mar. 13, Friday         |        Mar. 14, Saturday          |   Mar. 15, Sunday                      |
@@ -34,7 +34,7 @@ The seminar will be paperless. All the information about the seminar, including 
 |                                                                                        |
 |       18:00             |      Dinner               |             Dinner                |                                        |
   
-1. All talks will take place in (数学院南楼N219；从正门坐电梯至2楼，出来左手前方多媒体教室即是)   
+1. All talks will take place in ()   
 
 
 
@@ -61,7 +61,7 @@ Abstract: TBA
 
 
 
-
+# Belows are under construction
 ## <span id="Travel Information">Travel Information</span>
 
 地址: 中国科学院数学与系统科学研究院南楼  
