@@ -27,8 +27,8 @@ The seminar will be paperless. All the information about the seminar, including 
 |                                                                                                                                  |
 |       12:30-14:30       |                           |      [Lunch](#dining)             |        Lunch                           |
 |                                                                                                                                 |
-|       14:30-15:20       |                           |         **Free discussion**                  |         Free discussion/Leave          |
-|       15:20-15:40       |  Full-day Free discussion |                       |                                        |
+|       14:30-15:20       |                           |    [**Changzheng Li**](#Li)  |         Free discussion/Leave          |
+|       15:20-15:40       |  Full-day Free discussion |      **Free discussion**                 |                                        |
 |       15:40-16:10       |                           |       |                                        |
 |       16:10-            |                           |         |                                        |
 |                                                                                        |
@@ -51,6 +51,12 @@ Title: TBA
 
 Abstract: TBA
 
+
+- **<span id="Li">Changzheng Li</span> (Zhongshan)**
+
+Title: TBA
+
+Abstract: TBA
 
 
 - **<span id="Fan">Feifei Fan</span> (Zhongshan)**
