@@ -78,7 +78,7 @@ Abstract: TBA
      南开区白堤路236号增1号  
      南开大学西门对面
 
-乘车路线：[这个家伙很懒，什么都没有留下！](pathnankai.jp2) 
+酒店-数学院路线：[这个家伙很懒，什么都没有留下！](pathnankai.jp2) 
 (If you use Baidu or Gaode map, you do not need this)
 ![](pathnankai.jp2)
 
