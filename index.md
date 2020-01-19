@@ -20,11 +20,11 @@ All talks will take place in (**数学院？楼？教室**)
 |                                                                                                                                  |
 |       8:55 - 9:00       |                           |           Opening                 |                                        |
 |         Chair           |                           |                                   |                                        |
-|       9:00 - 09:50      |   |      [**Haibao Duan and Xuezhi Zhao (1)**](#DZ)        |      [**Feifei Fan (1)**](#Fan)          | 
+|       9:00 - 09:50      |   |      [**Haibao Duan(1)**](#Duan)        |      [**Feifei Fan (1)**](#Fan)          | 
 |       9:50 - 10:20      |                           |          Tea Break                |         Tea Break                      |
-|       10:20 - 11:10     |Full-day Registration   | **Haibao Duan and Xuezhi Zhao (2)**  |    **Feifei Fan (2)** |
+|       10:20 - 11:10     |Full-day Registration   | **Haibao Duan(2)**  |    **Feifei Fan (2)** |
 |       11:10-11:40       |                           |          Tea Break                |         Tea Break                      |
-|       11:40-12:30       |                           |  **Haibao Duan and Xuezhi Zhao (3)**  |   **Feifei Fan (3)**          | 
+|       11:40-12:30       |                           |  [**Xuezhi Zhao**](#Zhao)  |   **Feifei Fan (3)**          | 
 |                                                                                                                                  |
 |       12:30-14:30       |                           |      [Lunch](#dining)             |        Lunch                           |
 |                                                                                                                                 |
@@ -45,7 +45,7 @@ All talks will take place in (**数学院？楼？教室**)
 ## <span id="Talks">Talks</span>    
 
 
-- **<span id="DZ">Haibao Duan (AMSS)</span>**
+- **<span id="Duan">Haibao Duan (AMSS)</span>**
 
 Title: On Schubert's problem of characteristics
 
@@ -53,7 +53,7 @@ Abstract: Schubert calculus is the intersection theory of the 19th century, toge
 
 In this talk we review the origin of the problem, present a unified formula solving the problem, and discuss the algorithm structure of the formula.
 
-- **Xuezhi Zhao (CNU)**
+- **<span id="Zhao">Xuezhi Zhao (CNU)</span>**
 
 Title: 旗流形上同调环的结构及计算
 
