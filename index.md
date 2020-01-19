@@ -99,7 +99,7 @@ Abstract: TBA
 
 ##  <span id="Reimbursement Information">Reimbursement Information</span>  
 
-To apply reimbursement from the host, please contact Professor Yang Su (苏阳老师，suyang@math.ac.cn) with the following:
+To apply reimbursement from the host, please contact Professor Xiugui Liu (刘秀贵老师，suyang@math.ac.cn) with the following:
 
 1.	来回火车票  
 
