@@ -74,8 +74,6 @@ Title: TBA
 Abstract: TBA
 
 
-
-# Belows are under construction
 ## <span id="Travel Information">Travel Information</span>
 
 地址: 中国科学院数学与系统科学研究院南楼  
@@ -90,10 +88,11 @@ Abstract: TBA
 
 ## <span id="Accommodation">Accommodation</span>
 
-1.	我们已经为所有注册参会者预定了住宿；老师们都统一安排在**辽宁大厦**；学生们都统一安排在**物科宾馆**，两人一间。
-2.	You do not need to pay the accommodation fees if you have applied the financial support from the host.
-4.	<span id="dining">Lunch</span> at Saturday and Sunday are provided at 物科4楼（自助餐）
-5.	Dinner at Friday and Saturday is provided at 物科3楼（桌餐）
+1.	住宿地点：**天津汇高花园酒店 ** 
+酒店地址：南开区白堤路236号增1号，南开大学西门对面。价格为395元/晚。
+2.  You do not need to pay the accommodation fees if you have applied the financial support from the host.
+3.	<span id="dining">Lunch</span> at Saturday and Sunday are provided at 物科4楼（自助餐）
+4.	Dinner at Friday and Saturday is provided at 物科3楼（桌餐）
 
 
 
@@ -106,9 +105,11 @@ To apply reimbursement from the host, please contact Professor Yang Su (苏阳�
 1.	来回火车票  
 
 **Mailing Address:**  
-北京海淀区中关村东路55号    
-中国科学院数学与系统科学研究院 晨兴数学中心  
-苏阳
+
+天津市卫津路94号
+南开大学数学科学学院  
+刘秀贵 300071
+
 
 
 
