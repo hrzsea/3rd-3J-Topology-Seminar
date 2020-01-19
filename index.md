@@ -2,7 +2,7 @@
 
 The 3rd 3J Topology Seminar will be held at [天津南开大学](http://sms.nankai.edu.cn) from Mar. 13-15, 2020 (the 2rd weekend of March), hosted by School of Mathematical Sciences, Nankai University(南开大学数学科学学院).
 
-The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel Information](#Travel Information), [Accommodation and Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
+The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel and accommodation](#Travel Information), [Dining arrangement](#Accommodation), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
 ### Message Board
 ``
@@ -74,18 +74,18 @@ Title: TBA
 Abstract: TBA
 
 
-## <span id="Travel Information">Travel Information</span>
+## <span id="Travel Information">Travel and Accommodation</span>
 
-地址: 中国科学院数学与系统科学研究院南楼  
-     北京市海淀区中关村东路55号  
-     100190
+地址: 天津汇高花园酒店   
+     南开区白堤路236号增1号  
+     南开大学西门对面
 
 乘车路线：[这个家伙很懒，什么都没有留下！](pathnankai.jp2) 
 (If you use Baidu or Gaode map, you do not need this)
 ![](pathnankai.jp2)
 
 
-## <span id="Accommodation">Accommodation</span>
+## <span id="Dining arrangement"></span>
 
 1.	住宿地点：**天津汇高花园酒店**   
     酒店地址：南开区白堤路236号增1号，南开大学西门对面。价格为395元/晚。
