@@ -29,9 +29,7 @@ All talks will take place in (**数学院？楼？教室**)
 |       12:30-14:30       |                           |      [Lunch](#dining)             |        Lunch                           |
 |                                                                                                                                 |
 |       14:30-15:20       |                           |    [**Changzheng Li**](#Li)  |         Free discussion/Leave          |
-|       15:20-15:40       |  Full-day Free discussion |      **Free discussion**                 |                                        |
-|       15:40-16:10       |                           |       |                                        |
-|       16:10-            |                           |         |                                        |
+|       15:20-       |  Full-day Free discussion |      **Free discussion**          |                                        |
 |                                                                                        |
 |       18:00             |      Dinner               |             Dinner                |                                        |
    
