@@ -87,11 +87,11 @@ Abstract: TBA
 
 ## <span id="Accommodation">Accommodation</span>
 
-1.	住宿地点：**天津汇高花园酒店 ** 
-酒店地址：南开区白堤路236号增1号，南开大学西门对面。价格为395元/晚。
-2.  You do not need to pay the accommodation fees if you have applied the financial support from the host.
-3.	<span id="dining">Lunch</span> at Saturday and Sunday are provided at 物科4楼（自助餐）
-4.	Dinner at Friday and Saturday is provided at 物科3楼（桌餐）
+1.	住宿地点：**天津汇高花园酒店**   
+    酒店地址：南开区白堤路236号增1号，南开大学西门对面。价格为395元/晚。
+2.  You do not need to pay the accommodation fees if you have applied the financial support from the host.  
+3.	<span id="dining">Lunch</span> at Saturday and Sunday are provided at 物科4楼（自助餐）  
+4.	Dinner at Friday and Saturday is provided at 物科3楼（桌餐）  
 
 
 
