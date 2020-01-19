@@ -10,7 +10,7 @@ The seminar will be paperless. All the information about the seminar, including 
 
 ## <span id="Program">Program</span>  
 
-### (Algebraic topology of Lie groups and combinatorics）
+### (Algebraic topology of Lie groups and combinatorics）  
 `All talks will take place in (**数学院？教室（？层）**)  `
 
 
