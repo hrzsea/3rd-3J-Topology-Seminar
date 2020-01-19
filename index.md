@@ -17,7 +17,7 @@ The seminar will be paperless. All the information about the seminar, including 
 | ----------------------- |                           | --------------------------------  | -------------------------------------- |
 |         ?   - ?       |                           |        Breakfast                  |      Breakfast                         |
 |                                                                                                                                  |
-|       8:50 - 9:00       |                           |           Opening                 |                                        |
+|       8:55 - 9:00       |                           |           Opening                 |                                        |
 |         Chair           |                           |                                   |                                        |
 |       9:00 - 09:50      |   |      [**Haibao Duan and Xuezhi Zhao (1)**](#DZ)        |      [**Feifei Fan (1)**](#Fan)          | 
 |       9:50 - 10:20      |                           |          Tea Break                |         Tea Break                      |
