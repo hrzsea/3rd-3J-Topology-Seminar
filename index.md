@@ -58,14 +58,14 @@ Title: 旗流形上同调环的结构及计算
 Abstract: 在此报告中，我们将讨论复半单李群所对应旗流形的上同调环结构。人们已经知道它是多元多项式的商环，然而它们的完整的“最优”表述，特别是几个例外李群的情形一直是一个困难。这里，我们试图从理论、计算、及应用等方面讨论一下，何谓“优”，及“优化”的方法意义，及目前的结果。我们也说明一下与大规模复杂计算相关的论题：Grobner基理论（吴方法），最短向量问题等。
 
 
-- **<span id="Li">Changzheng Li</span> (Zhongshan)**
+- **<span id="Li">Changzheng Li</span> (SYSU)**
 
 Title: Euler characteristics in the quantum K-theory of flag varieties
 
 Abstract: In this talk, we will discuss the sum of the Schubert structure coefficients in the (equivariant) quantum K-theory of flag varieties G/P. We will show that the sheaf Euler characteristic of the (torus-equivariant) quantum K-product of a Schubert class and an opposite Schubert class is equal to q^d, where d is the smallest degree of a rational curve joining the two Schubert varieties. Along the way, we provide a description of the smallest degree d in terms of its projections to flag varieties defined by maximal parabolic subgroups. This is my joint work with Anders Buch, Sjuvon Chung and Leonardo Mihalcea.
 
 
-- **<span id="Fan">Feifei Fan</span> (Zhongshan)**
+- **<span id="Fan">Feifei Fan</span> (SYSU)**
 
 Title: TBA
 
