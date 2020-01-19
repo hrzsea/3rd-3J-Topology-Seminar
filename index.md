@@ -11,6 +11,7 @@ The seminar will be paperless. All the information about the seminar, including 
 ## <span id="Program">Program</span>  
 
 ### (Algebraic topology of Lie groups and combinatorics）
+`All talks will take place in (**数学院？教室（？层）**)  `
 
 
 |                         |   Mar. 13, Friday         |        Mar. 14, Saturday          |   Mar. 15, Sunday                      |
@@ -33,8 +34,7 @@ The seminar will be paperless. All the information about the seminar, including 
 |       16:10-            |                           |         |                                        |
 |                                                                                        |
 |       18:00             |      Dinner               |             Dinner                |                                        |
-  
-1. All talks will take place in ()   
+   
 
 
 
