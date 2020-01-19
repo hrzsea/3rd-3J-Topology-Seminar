@@ -80,10 +80,9 @@ Abstract: TBA
      北京市海淀区中关村东路55号  
      100190
 
-乘车路线：[这个家伙很懒，什么都没有留下！](the paths.jp2) 
+乘车路线：[这个家伙很懒，什么都没有留下！]( pathnakai.jp2) 
 (If you use Baidu or Gaode map, you do not need this)
-![](the paths.jp2) 
-
+![](pathnakai.jp2)
 
 
 ## <span id="Accommodation">Accommodation</span>
