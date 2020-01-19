@@ -105,8 +105,8 @@ To apply reimbursement from the host, please contact Professor Xiugui Liu (刘�
 
 **Mailing Address:**  
 
-天津市卫津路94号
-南开大学数学科学学院  
+天津市卫津路94号  
+南开大学数学科学学院    
 刘秀贵 300071
 
 
