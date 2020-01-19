@@ -45,7 +45,7 @@ The seminar will be paperless. All the information about the seminar, including 
 ## <span id="Talks">Talks</span>    
 
 
-- **<span id="DZ">Haibao Duan (AMSS) and Xuezhi Zhao (CNU)</span>**
+- **<span id="DZ">Haibao Duan (AMSS)</span>**
 
 Title: On Schubert's problem of characteristics
 
