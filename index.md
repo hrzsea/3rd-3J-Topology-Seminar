@@ -74,7 +74,7 @@ Title: TBA
 Abstract: TBA
 
 
-## <span id="Travel Information">Travel and Accommodation</span>
+## <span id="Travel Information">Travel and accommodation</span>
 
 地址: 天津汇高花园酒店   
      南开区白堤路236号增1号  
