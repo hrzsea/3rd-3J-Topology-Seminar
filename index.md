@@ -2,7 +2,7 @@
 
 The 3rd 3J Topology Seminar will be held at [天津南开大学](http://sms.nankai.edu.cn) from Mar. 13-15, 2020 (the 2rd weekend of March), hosted by School of Mathematical Sciences, Nankai University(南开大学数学科学学院).
 
-The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of the talks](#Talks), [Travel and accommodation](#Travel Information), [Dining arrangement](#Dining), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
+The seminar will be paperless. All the information about the seminar, including [Talk Schedule](#Program), [Abstracts of talks](#Talks), [Travel and accommodation](#Travel Information), [Dining arrangement](#Dining), and [Reimbursement Information](#Reimbursement Information), will be released at this page.
 
 ### Message Board
 ``
